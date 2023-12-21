@@ -1,4 +1,4 @@
-# DISTANCE-BETWEEN-TWO-POINTS
+# EX-03: DISTANCE-BETWEEN-TWO-POINTS
 
 ## AIM:
 To write a python program to find the distance two 2 points
@@ -10,7 +10,9 @@ Assign the coordinates of the first point to variables x1 and y1.
 ### Step 3: 
 Assign the coordinates of the second point to variables x2 and y2. 
 ### Step 4: 
-Substitute the values in the distance formula  ![formula](/formula.JPG)
+Substitute the values in the distance formula  
+![image](https://github.com/KeerthanaaSaravanan/DISTANCE-BETWEEN-TWO-POINTS/assets/145742596/dc6fe12c-5015-4948-91de-5f7d490d9588)
+
 ### Step 5: 
 Print the distance d, formatted to 2 decimal places.
 
@@ -30,7 +32,7 @@ print("{:.2f}".format(d))
 
 ### OUTPUT:
 
-![Alt text](<Distance Output.png>)
+![image](https://github.com/KeerthanaaSaravanan/DISTANCE-BETWEEN-TWO-POINTS/assets/145742596/335498ee-f6d2-49cb-95ab-d1d3d06ab2fe)
 
 ### RESULT:
 
